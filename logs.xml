@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-06-12T12:10:20</date>
+  <millis>1591953020669</millis>
+  <sequence>0</sequence>
+  <logger>Test_R.LogTest</logger>
+  <level>SEVERE</level>
+  <class>Test_R.LogTest</class>
+  <method>testMsg</method>
+  <thread>1</thread>
+  <message>Severe level!</message>
+</record>
+<record>
+  <date>2020-06-12T12:10:20</date>
+  <millis>1591953020757</millis>
+  <sequence>1</sequence>
+  <logger>Test_R.LogTest</logger>
+  <level>WARNING</level>
+  <class>Test_R.LogTest</class>
+  <method>testMsg</method>
+  <thread>1</thread>
+  <message>Warning level!</message>
+</record>
+<record>
+  <date>2020-06-12T12:10:20</date>
+  <millis>1591953020762</millis>
+  <sequence>2</sequence>
+  <logger>Test_R.LogTest</logger>
+  <level>SEVERE</level>
+  <class>Test_R.LogTest</class>
+  <method>testMsg</method>
+  <thread>1</thread>
+  <message>Severe level!</message>
+</record>
+<record>
+  <date>2020-06-12T12:10:20</date>
+  <millis>1591953020774</millis>
+  <sequence>3</sequence>
+  <logger>Test_R.LogTest</logger>
+  <level>FINEST</level>
+  <class>Test_R.LogTest</class>
+  <method>testMsg</method>
+  <thread>1</thread>
+  <message>Finest level!</message>
+</record>
+<record>
+  <date>2020-06-12T12:10:20</date>
+  <millis>1591953020776</millis>
+  <sequence>4</sequence>
+  <logger>Test_R.LogTest</logger>
+  <level>WARNING</level>
+  <class>Test_R.LogTest</class>
+  <method>testMsg</method>
+  <thread>1</thread>
+  <message>Warning level!</message>
+</record>
+<record>
+  <date>2020-06-12T12:10:20</date>
+  <millis>1591953020783</millis>
+  <sequence>5</sequence>
+  <logger>Test_R.LogTest</logger>
+  <level>SEVERE</level>
+  <class>Test_R.LogTest</class>
+  <method>testMsg</method>
+  <thread>1</thread>
+  <message>Severe level!</message>
+</record>
+</log>
